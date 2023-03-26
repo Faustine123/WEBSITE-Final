@@ -1,0 +1,9 @@
+---
+title: "Portfolio"
+---
+
+Some projects that I have completed include:
+
+\- [Tea testing](https://github.com/Faustine123/Tea-tasting/tree/master/scripts)
+
+\-[Atogether](https://www.faustinefan.com/artogether). This is a collaborative community for creators in any creative fields.

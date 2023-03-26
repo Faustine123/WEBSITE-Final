@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Faustine Fan"
@@ -7,13 +8,22 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - portfolio.qmd
+      
+      
+
 
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
     toc: true
+    href: Resume.pdf
+    text: CV
+    
+
+
+editor: visual
 
 
 
