@@ -1,11 +1,13 @@
 ---
-title: "Faustine Fan"
+title: "Faustine's Website"
 ---
 
-This is a Quarto website.
+Hello! Welcome to my website! I'm Faustine.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Emerging product designer passionate about creating innovative and user-friendly products.\
+\
+Based in Toronto.\
+\
+Currently foresting community [\@University of Toronto, Information Faculty](https://ischool.utoronto.ca/) and looking for a Summer 2023 internship.
 
-```{r}
-1 + 1
-```
+\- [Resume](https://www.faustinefan.com/_files/ugd/0609b2_c5bf4cd96c764bdd80c2ea0945599b33.pdf?index=true). Review my resume in this link!
