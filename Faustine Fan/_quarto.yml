@@ -9,17 +9,18 @@ website:
       - href: index.qmd
         text: Home
       - portfolio.qmd
+      - href: Resume.pdf
+        text: CV
       
-      
-
+    
+    
 
 format:
   html:
     theme: sketchy
     css: styles.css
     toc: true
-    href: Resume.pdf
-    text: CV
+   
     
 
 
